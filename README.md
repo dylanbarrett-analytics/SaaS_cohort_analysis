@@ -4,8 +4,6 @@
 
 ## **Introduction**
 
-At least in this case, it's not so much about the destination... it's about how one gets there.
-
 A **user journey** illustrates the sequence of steps a user takes while interacting with a website. Understanding *how users interact* over many sessions is key to discovering consistent behaviors that ultimately lead to **purchases**.
 
 This project analyzes detailed web session data from a SaaS (Software as a Service) product. *SaaS* refers to applications delivered via the internet, such as Salesforce, Microsoft Office 365, or Dropbox, where users access software through their browser as opposed to a program installation.
